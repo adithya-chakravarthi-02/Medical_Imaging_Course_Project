@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Data & Output Caches
+data/
+*.dcm
+*.mhd
+*.zraw
+*.npz
+
+# IDE & System
+.DS_Store
+.vscode/
+.idea/
